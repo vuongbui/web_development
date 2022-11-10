@@ -6,5 +6,5 @@
 - html heading: h1, h2, h3, h4, h5, h6
 - html paragraph: p tag
 - html links: a tag
-- html attributes <a href="https://google.com">Google Link</a>
+- html attributes `<a href="https://google.com">Google Link</a>`
   
