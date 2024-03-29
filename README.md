@@ -8,3 +8,7 @@
 - html links: a tag (anchor)
 - html attributes `<a href="https://google.com">Google Link</a>`
 href is an attribute of tag a
+
+
+Web Development tools
+- Nodejs (using nvm to manage node versions in your machine)
